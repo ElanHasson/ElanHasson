@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Check out my site, <a href="https://throw.nullreference.io/?utm_source=github&utm_medium=social&utm_campaign=github_profile_readme&utm_content=README.MD" title="Throwin' Exceptions Site Link">`Throwin' Exceptions`</a>
+## Check out my site, <a target="_blank" href="https://throw.nullreference.io/?utm_source=github&utm_medium=social&utm_campaign=github_profile_readme&utm_content=README.MD" title="Throwin' Exceptions Site Link">`Throwin' Exceptions`</a>
 
 ### Latest Posts:
 <!-- BLOGPOSTS:START -->
