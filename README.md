@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: him/him/his
+- 🔭 I’m currently working on @digitalocean's [App Platform](https://www.digitalocean.com/products/app-platform/?refcode=0759a4937a7a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
 - :bird: How to reach me: <a href="https://twitter.com/ElanHasson" target="_blank" title="@ElanHasson on Twitter">@ElanHasson</a>
 <!--
 **ElanHasson/ElanHasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +29,11 @@ Here are some ideas to get you started:
 - [Hello World](https://throw.nullreference.io/posts/hello-world/)
 - [Adding IIS Features to an AWS Elastic Bean Stalk .Net Container](https://throw.nullreference.io/posts/adding-iis-features-to-an-aws-elastic-bean-stalk-.net-container/)
 <!-- BLOGPOSTS:END -->
+
+## Who doesn't love some statistics?
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElanHasson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElanHasson&layout=compact&langs_count=8&theme=radical"/>
+</div>
