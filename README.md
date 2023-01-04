@@ -3,7 +3,7 @@
 - 😄 Pronouns: him/him/his
 - 🔭 I’m currently working on @digitalocean's [Serverless Products](https://www.digitalocean.com/products/app-platform/?refcode=0759a4937a7a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste)
 - How to reach me: 
-   - 🐘 <a href="https://hachyderm.io/@elan" target="_blank" title="@elan@hachyderm.io on Mastodon">@elan @hachyderm.io on Mastodon</a>
+   - 🐘 <a href="https://publicsquare.global/@elan" target="_blank" title="@elan@publicsquare.global on Mastodon">@elan @publicsquare.global on Mastodon</a>
    - :bird: <a href="https://twitter.com/ElanHasson" target="_blank" title="@ElanHasson on Twitter">@ElanHasson</a>
 <!--
 **ElanHasson/ElanHasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
