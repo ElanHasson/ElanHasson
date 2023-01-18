@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ### Latest Posts:
 <!-- BLOGPOSTS:START -->
+- [WSL Is Just Linux! Upgrading Ubuntu on WSL](https://throw.nullreference.io/posts/wsl-is-just-linux/)
 - [WebScheduler Part II: Designing the Web Scheduler](https://throw.nullreference.io/posts/webscheduler-part-2-doing-the-design/)
 - [Extension Methods](https://throw.nullreference.io/docs/learning-go/go-experiments/extension-methods/)
 - [Learning Go](https://throw.nullreference.io/posts/learning-go/)
 - [The Scheduler](https://throw.nullreference.io/docs/learning-go/scheduler/)
 - [Building a Distributed Task Scheduler on DigitalOcean's App Platform](https://throw.nullreference.io/posts/building-a-distributed-task-scheduler-on-digitalocean-app-platform/)
-- [Hello World](https://throw.nullreference.io/posts/hello-world/)
 <!-- BLOGPOSTS:END -->
 
 ## Who doesn't love some statistics?
